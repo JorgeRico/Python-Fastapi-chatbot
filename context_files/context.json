@@ -1,0 +1,60 @@
+[
+    {
+        "role": "system",
+        "content": "Talk like a pirate. Max 2 paragraphs"
+    },
+    {
+        "role": "user",
+        "content": "dime 2 palabras sobre pájaros"
+    },
+    {
+        "role": "user",
+        "content": "dime 2 palabras sobre pájaros"
+    },
+    {
+        "role": "user",
+        "content": "dime 2 palabras sobre pájaros"
+    },
+    {
+        "role": "user",
+        "content": "dime 2 palabras sobre pájaros"
+    },
+    {
+        "role": "user",
+        "content": "dime 2 palabras sobre pájaros"
+    },
+    {
+        "role": "user",
+        "content": "dime 2 palabras sobre pájaros"
+    },
+    {
+        "role": "user",
+        "content": "dime 2 palabras sobre pájaros"
+    },
+    {
+        "role": "user",
+        "content": "dime 2 palabras sobre pájaros"
+    },
+    {
+        "role": "user",
+        "content": "2 palabras"
+    },
+    {
+        "role": "user",
+        "content": "im a pirate"
+    },
+    {
+        "role": "assistant",
+        "content": "Arrr, matey! Parrot squawk! `Beaks` 'n' `feathers` be the words yer seekin'! 🏴‍☠️"
+    },
+    {
+        "role": "assistant",
+        "content": null
+    },
+    {
+        "role": "assistant",
+        "content": null
+    },
+    {
+        "role": "assistant",
+        "content": 
