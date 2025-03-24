@@ -29,5 +29,8 @@ pip install starlette fastapi uvicorn python-multipart requests
 ```
 
 ## voice recorder
+
+```bash
 > https://online-voice-recorder.com/es/
 > https://elevenlabs.io/
+```
