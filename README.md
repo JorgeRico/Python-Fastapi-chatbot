@@ -11,9 +11,9 @@ pip install starlette fastapi uvicorn python-multipart requests
 ## .env file
 
 ```bash
-    OPENAI_KEY=YOUR-OPENAI-KEY
-    OPENAI_MODEL=gpt-3.5-turbo
-    TRANSCRIPTION_MODEL=whisper-1
+    GITHUB_MODEL=gpt-4o
+    GITHUB_TOKEN=YOUR-GITHUB-TOKEN
+    ELEVENLABS_API_KEY=YOUR-ELEVENLABS-API-KEY
 ```
 
 ## execute
