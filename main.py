@@ -59,13 +59,7 @@ def upload_file(file: UploadFile = File(...)):
         with open(file_path , "wb") as buffer:
             buffer.write(file.file.read())
 
-        # client   = init_client()
-        # response = await transcribe_audio(client, filename)
-        # add_assistant_chat_message(response)(filename)
         response = send_file_to_elevenlabs(filename, file_path)
-
-        # response = "uploaded file" + filename
-        
     except:
         raise HTTPException(status_code=HTTP_500, detail="Upload File error")
 
